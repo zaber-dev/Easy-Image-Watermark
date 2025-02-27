@@ -52,7 +52,7 @@ if not exist "%image_to_add_path%" (
 :MENU
 cls
 echo ========================================================
-echo          Image Processing Tool - Developer: Mahedi Zaman Zaber
+echo          Image Processing Tool - Developer: Md Mahedi Zaman Zaber
 echo                    Powered By: ZealTyro
 echo                 Website: www.zealtyro.com
 echo ========================================================
@@ -94,7 +94,7 @@ goto MENU
 :ABOUT
 cls
 echo ========================================================
-echo          Image Processing Tool - Developer: Mahedi Zaman Zaber
+echo          Image Processing Tool - Developer: Md Mahedi Zaman Zaber
 echo                    Powered By: ZealTyro
 echo                 Website: www.zealtyro.com
 echo ========================================================
